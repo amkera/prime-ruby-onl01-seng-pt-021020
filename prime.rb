@@ -1,4 +1,3 @@
- 
         
 def prime?(num)
 
@@ -10,6 +9,4 @@ def prime?(num)
     return true
 end
 
-prime?(2)
-
-
+prime?(2) #true
